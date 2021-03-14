@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create you classes here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7242#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 11 Mar 2021 22:21:41 UTC
+record: -1
